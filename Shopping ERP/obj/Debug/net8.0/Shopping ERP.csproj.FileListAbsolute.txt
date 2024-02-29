@@ -1,0 +1,23 @@
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\bin\Debug\net8.0\ShoppingAPI.deps.json
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\bin\Debug\net8.0\ShoppingAPI.runtimeconfig.json
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\bin\Debug\net8.0\appsettings.Development.json
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\bin\Debug\net8.0\appsettings.json
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\bin\Debug\net8.0\ShoppingAPI.exe
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\bin\Debug\net8.0\Shopping ERP.exe
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\bin\Debug\net8.0\Shopping ERP.deps.json
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\bin\Debug\net8.0\Shopping ERP.runtimeconfig.json
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\bin\Debug\net8.0\Shopping ERP.dll
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\bin\Debug\net8.0\Shopping ERP.pdb
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\bin\Debug\net8.0\ShoppingAPI.dll
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\bin\Debug\net8.0\ShoppingAPI.pdb
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\obj\Debug\net8.0\Shopping ERP.csproj.AssemblyReference.cache
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\obj\Debug\net8.0\Shopping ERP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\obj\Debug\net8.0\Shopping ERP.AssemblyInfoInputs.cache
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\obj\Debug\net8.0\Shopping ERP.AssemblyInfo.cs
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\obj\Debug\net8.0\Shopping ERP.csproj.CoreCompileInputs.cache
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\obj\Debug\net8.0\Shopping ERP.csproj.CopyComplete
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\obj\Debug\net8.0\Shopping ERP.dll
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\obj\Debug\net8.0\refint\Shopping ERP.dll
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\obj\Debug\net8.0\Shopping ERP.pdb
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\obj\Debug\net8.0\Shopping ERP.genruntimeconfig.cache
+D:\Meus arquivos\Visual Studio\Shopping ERP\Shopping ERP\obj\Debug\net8.0\ref\Shopping ERP.dll
